@@ -1,7 +1,7 @@
 import telebot, sqlite3
 from telebot import types
 
-token = '2085064048:AAGMJJd6Pwr20WQnjYB0csBZPXm9qk0dx2o'
+token = ''
 bot = telebot.TeleBot(token)
 
 markup = types.ReplyKeyboardMarkup(row_width=2)  # Da ili Net
